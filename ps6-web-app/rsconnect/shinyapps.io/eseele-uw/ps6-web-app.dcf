@@ -1,0 +1,13 @@
+name: ps6-web-app
+title: ps6-web-app
+username:
+account: eseele-uw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8484187
+bundleId: 6919154
+url: https://eseele-uw.shinyapps.io/ps6-web-app/
+when: 1678067583.0043
+lastSyncTime: 1678067583.00431
+asMultiple: FALSE
+asStatic: FALSE
