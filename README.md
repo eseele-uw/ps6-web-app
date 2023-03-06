@@ -21,4 +21,8 @@ The table expression of the data shows the element and how many times it appeare
 appearences to least. This has one option set to choose from and it chooses which season you would like to look at.
 There is also a sentence above the table that tells you which season you are currently looking at. 
 
+
+You can find the interactive web app at this website:
+https://eseele-uw.shinyapps.io/ps6-web-app/
+
 Overall, this projdect took me 6 hours. 
